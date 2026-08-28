@@ -1,0 +1,3 @@
+[submodule "funds"]
+	path = funds
+	url = git@github.com:makerspace-gt/funds.git
